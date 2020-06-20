@@ -1,1 +1,3 @@
-Not Defteri üzerinden ilk değişiklik!
+Not Defteri uzerinden ilk degisiklik!
+
+Visual Studio Code Ã¼zerinden ikinci deÄŸiÅŸiklik!
